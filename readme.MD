@@ -1,9 +1,12 @@
-# URL Shortener
+# Django Chat Application
 This is a Python Django and Javascript server application to enable logging into and chatting in rooms on a real-time level.
 
 Technologies used:
 * `Django`
 * `AJAX`
+* `Python`
+* `Javascript`
+* `HTML and CSS`
 
 ## Important links
 To clone project 
